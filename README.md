@@ -11,19 +11,19 @@ other topics.
 
 ## Phoenix
 
-Taking off with Phoenix by Sonny Scroggin
+### Taking off with Phoenix by Sonny Scroggin
 - Conference Homepage: [Erlang Factory SF 2016][1]
 - Conference Video: [Taking off with Phoenix][2]
 
 ## Ecto
 
-Leveling Up with Ecto by Darin Wilson
+### Leveling Up with Ecto by Darin Wilson
 - Conference Homepage: [Elixir & Phoenix Conf 2016][3]
 - Conference Video : [Leveling Up with Ecto][4]
 
 ## Elixir
 
-Refactoring Techniques for Elixir, Ecto, and Phoenix by Gary Rennie
+### Refactoring Techniques for Elixir, Ecto, and Phoenix by Gary Rennie
 - Conference Homepage: [Elixir & Phoenix Conf 2016][3]
 - Conference Video : [Refactoring Techniques for Elixir, Ecto, and Phoenix by Gary Rennie][5]
 
@@ -33,15 +33,15 @@ Dialyzer: Optimistic Type Checking for Erland and Elixir by Jason Voegele
 
 ## Umbrella Application / Separating Domain & Business Logic
 
-Building Umbrella Project by Wojtek Mach
+### Building Umbrella Project by Wojtek Mach
 - Conference Homepage: [Elixir & Phoenix Conf 2016][3]
 - Conference Video : [Building Umbrella Project][6]
 
-Controller Control by Gary Rennie
+### Controller Control by Gary Rennie
 - Conference Homepage: [Elixir.LDN 2016][7]
 - Conference Video : [Controller Control][8]
 
-Phoenix is Not Your Application by Lance Halvorsen
+### Phoenix is Not Your Application by Lance Halvorsen
 - Conference Homepage: [ElixirConfEU 2016][9]
 - Conference Video : [Phoenix Is Not Your Application][10]
 
