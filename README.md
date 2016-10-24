@@ -27,7 +27,7 @@ other topics.
 - Conference Homepage: [Elixir & Phoenix Conf 2016][3]
 - Conference Video : [Refactoring Techniques for Elixir, Ecto, and Phoenix by Gary Rennie][5]
 
-Dialyzer: Optimistic Type Checking for Erland and Elixir by Jason Voegele
+### Dialyzer: Optimistic Type Checking for Erland and Elixir by Jason Voegele
 - Conference Homepage: [Elixir & Phoenix Conf 2016][3]
 - Conference Video : [Dialyzer: Optimistic Type Checking for Erland and Elixir][11]
 
