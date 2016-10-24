@@ -27,6 +27,10 @@ Refactoring Techniques for Elixir, Ecto, and Phoenix by Gary Rennie
 - Conference Homepage: [Elixir & Phoenix Conf 2016][3]
 - Conference Video : [Refactoring Techniques for Elixir, Ecto, and Phoenix by Gary Rennie][5]
 
+Dialyzer: Optimistic Type Checking for Erland and Elixir by Jason Voegele
+- Conference Homepage: [Elixir & Phoenix Conf 2016][3]
+- Conference Video : [Dialyzer: Optimistic Type Checking for Erland and Elixir][11]
+
 ## Umbrella Application / Separating Domain & Business Logic
 
 Building Umbrella Project by Wojtek Mach
@@ -51,3 +55,4 @@ Phoenix is Not Your Application by Lance Halvorsen
 [8]: https://youtu.be/XhNacMst_1o
 [9]: http://www.elixirconf.eu/
 [10]: https://youtu.be/lDKCSheBc-8
+[11]: https://www.youtube.com/watch?v=JT0ECYZ9FaQ
